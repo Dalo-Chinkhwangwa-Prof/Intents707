@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecondApplication</string>
+    <string name="hello_world_text">Hello World! How are you today?</string>
+</resources>
